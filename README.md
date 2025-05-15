@@ -2,8 +2,8 @@
 Data insights and dashboard for Plato’s Pizza using Excel, Tableau, and Python.
 
 ## Table of Contents
-- [Objective](#-objective)
-- [Business Questions](#-business-questions-answered)
+- [Objective](#objective)
+- [Business Questions](#business-questions-answered)
 - [Data Cleaning](#-data-cleaning--preparation)
 - [KPIs](#-key-performance-indicators-kpis)
 - [Dashboards](#-dashboard-preview)
