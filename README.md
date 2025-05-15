@@ -4,11 +4,11 @@ Data insights and dashboard for Plato’s Pizza using Excel, Tableau, and Python
 ## Table of Contents
 - [Objective](#objective)
 - [Business Questions](#business-questions-answered)
-- [Data Cleaning](#-data-cleaning--preparation)
-- [KPIs](#-key-performance-indicators-kpis)
-- [Dashboards](#-dashboard-preview)
-- [Insights](#-key-insights--recommendations)
-- [References](#-references)
+- [Data Cleaning](#-ata-cleaning--preparation)
+- [KPIs](#key-performance-indicators-kpis)
+- [Dashboards](#dashboard-preview)
+- [Insights](#key-insights--recommendations)
+- [References](#references)
 
 # 🍕 Pizza Sales Analysis for Plato’s Pizza  
 **Role:** Business Intelligence Consultant  
