@@ -90,3 +90,13 @@ Additional deep-dives included:
 #### Customer Behavior & Category Insights
 ![Dashboard 2](dashboards/dashboard2.png)
 
+### Trend Forecasting (Linear Regression)
+
+This plot shows monthly revenue over the year and a predicted trend using linear regression.
+
+![Trend Forecasting](python-analysis/monthly_forecast.png)
+
+
+### Order Frequency by Time of Day vs Pizza Category
+
+![Order Time Heatmap](python-analysis/heatmap_order_by_time.png)
