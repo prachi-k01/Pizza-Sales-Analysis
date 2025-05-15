@@ -1,6 +1,15 @@
 # Pizza-Sales-Analysis
 Data insights and dashboard for Plato’s Pizza using Excel, Tableau, and Python.
 
+## Table of Contents
+- [Objective](#-objective)
+- [Business Questions](#-business-questions-answered)
+- [Data Cleaning](#-data-cleaning--preparation)
+- [KPIs](#-key-performance-indicators-kpis)
+- [Dashboards](#-dashboard-preview)
+- [Insights](#-key-insights--recommendations)
+- [References](#-references)
+
 # 🍕 Pizza Sales Analysis for Plato’s Pizza  
 **Role:** Business Intelligence Consultant  
 **Location:** New Jersey  
@@ -144,3 +153,7 @@ This plot shows monthly revenue over the year and a predicted trend using linear
 #### Recommendations:
   - Create lunch combos with Classic pizzas to boost sales even more.
   - Reduce late-night staffing or offer special “late-night meal deals” to increase traffic.
+
+#### References
+[(https://www.youtube.com/@datatutorials1)]
+
