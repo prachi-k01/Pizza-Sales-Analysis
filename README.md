@@ -85,8 +85,8 @@ Additional deep-dives included:
 ### 📊 Dashboard Preview
 
 #### Sales & Growth Monitor
-![Dashboard 1](dashboards/Dashboard Main.png)
+![Dashboard 1](dashboards/Dashboard -2.png)
 
 #### Customer Behavior & Category Insights
-![Dashboard 2](dashboards/Dashboard -2.png)
+![Dashboard 2](dashboards/Dashboard Main.png)
 
