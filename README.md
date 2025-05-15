@@ -55,5 +55,25 @@ The final outcome was to present data-backed recommendations to improve sales an
   ```excel
   =TEXT(order_date, "mmmm")
   =TEXT(order_date, "dddd")
+  ```
+  - Hour from `order_time` using:
+  ```excel
+  =HOUR([@[order_time]])
+  ```
+  - Season assigned using:
+  ```excel
+  =CHOOSE(MONTH(order_date),
+  "Winter", "Winter", "Spring", "Spring", "Spring",
+  "Summer", "Summer", "Summer",
+  "Fall", "Fall", "Fall", "Winter")
+  ```
+  - Pizza Size Labels mapped from codes (S, M, L, XL, XXL) using:
+  ```excel
+  =IF(size="S","Small",IF(size="M","Medium",...))
+  ```
+- Prepared the final cleaned dataset for Tableau by:
+  - Removing all formulas
+  - Flattening calculated fields into values
+  - Saving as a new file: Pizza Sales - final_Cleaned.xlsx
   
 
