@@ -75,5 +75,18 @@ The final outcome was to present data-backed recommendations to improve sales an
   - Removing all formulas
   - Flattening calculated fields into values
   - Saving as a new file: Pizza Sales - final_Cleaned.xlsx
+ 
+### ❓ What’s Next
+This project was completed using both visual tools (Tableau) and code-driven analysis (Python) to provide a full-stack business intelligence solution.
+Additional deep-dives included:
+ - Revenue Forecasting using Linear Regression
+ - Time-of-Day Analysis by Pizza Category (heatmap)
   
+### 📊 Dashboard Preview
+
+#### Sales & Growth Monitor
+![Dashboard 1](dashboards/dashboard-main.png)
+
+#### Customer Behavior & Category Insights
+![Dashboard 2](dashboards/dashboard=2.png)
 
